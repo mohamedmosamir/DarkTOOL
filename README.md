@@ -2,7 +2,9 @@
 
 **A Comprehensive Cyber Security and Ethical Hacking Toolkit**
 
-![Dark Tool Banner](https://i.imgur.com/your_banner_image.png) Dark Tool is an all-in-one command-line utility designed to streamline your cyber security and ethical hacking tasks. It provides a vast collection of over 200 pre-configured and categorized tools, allowing you to quickly find, install, and launch the utilities you need without hassle. Whether you're a seasoned penetration tester, a security researcher, or an aspiring ethical hacker, Dark Tool is built to enhance your workflow and consolidate your arsenal.
+![Dark Tool Banner](https://github.com/mohamedmosamir/DarkTOOL/blob/main/Screenshot_20250706_210508.png?raw=true)
+
+Dark Tool is an all-in-one command-line utility designed to streamline your cyber security and ethical hacking tasks. It provides a vast collection of over 200 pre-configured and categorized tools, allowing you to quickly find, install, and launch the utilities you need without hassle. Whether you're a seasoned penetration tester, a security researcher, or an aspiring ethical hacker, Dark Tool is built to enhance your workflow and consolidate your arsenal.
 
 ## Features
 
@@ -123,3 +125,4 @@ Contributions are welcome! If you have suggestions for new tools, improvements, 
 This project is open-source and available under the [MIT License](LICENSE). ```
 
 ---
+**انتهى النسخ هنا.**
