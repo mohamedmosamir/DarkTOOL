@@ -86,23 +86,29 @@ Update your system:
 
 Bash
 
-sudo apt update && sudo apt upgrade -y
+sudo apt update && sudo apt upgrade -y ```
+
 Install Git (if not already installed):
 
 Bash
 
-sudo apt install git -y
+sudo apt install git -y ```
+
 Clone the repository:
 
 Bash
 
-git clone https://github.com/mohamedmosamir/DarkTOOL 
+git clone https://github.com/mohamedmosamir/DarkTOOL ```
+
 Navigate into the directory:
 
 Bash
 
-cd DarkTool
-Run the tool: python3 DarkTool.py
+cd DarkTool ```
+
+Run the tool:
+
+python3 DarkTool.py ```
 
 Bash
 
@@ -124,13 +130,16 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/mohamedmosamir/DarkTOOL 
+git clone https://github.com/mohamedmosamir/DarkTOOL ```
 Navigate into the directory:
 
 Bash
 
-cd DarkTool
-Run the tool: python3 DarkTool.py
+cd DarkTool```
+
+Run the tool: 
+
+python3 DarkTool.py ```
 
 Bash
 
