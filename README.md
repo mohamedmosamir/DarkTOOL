@@ -125,4 +125,4 @@ Contributions are welcome! If you have suggestions for new tools, improvements, 
 This project is open-source and available under the [MIT License](LICENSE). ```
 
 ---
-**انتهى النسخ هنا.**
+
