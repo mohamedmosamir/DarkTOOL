@@ -1,5 +1,4 @@
 Dark Tool
-
 A Comprehensive Cyber Security and Ethical Hacking Toolkit
 
 Dark Tool is an all-in-one command-line utility designed to streamline your cyber security and ethical hacking tasks. It provides a vast collection of over 200 pre-configured and categorized tools, allowing you to quickly find, install, and launch the utilities you need without hassle. Whether you're a seasoned penetration tester, a security researcher, or an aspiring ethical hacker, Dark Tool is built to enhance your workflow and consolidate your arsenal.
@@ -72,9 +71,70 @@ Web Development Utilities
 
 Miscellaneous
 
+Installation
+Prerequisites
+Python 3 installed.
+
+git installed for cloning the repository.
+
+sudo access (for Kali Linux).
+
+Internet connection for downloading tools.
+
+On Kali Linux
+Update your system:
+
+Bash
+
+sudo apt update && sudo apt upgrade -y
+Install Git (if not already installed):
+
+Bash
+
+sudo apt install git -y
+Clone the repository:
+
+Bash
+
+git clone https://github.com/mohamedmosamir/DarkTOOL 
+Navigate into the directory:
+
+Bash
+
+cd DarkTool
+Run the tool: python3 DarkTool.py
+
+Bash
+
+python3 DarkTool.py
+The tool will automatically prompt you to install any missing dependencies (like python3-pip, golang-go, etc.) and the chosen security tools as you select them.
+
+On Termux (Android)
+Update Termux packages:
+
+Bash
+
+pkg update && pkg upgrade -y
+Install necessary packages (Python and Git):
+
+Bash
+
+pkg install python git -y
+Clone the repository:
+
+Bash
+
+git clone https://github.com/mohamedmosamir/DarkTOOL 
+Navigate into the directory:
+
+Bash
+
+cd DarkTool
+Run the tool: python3 DarkTool.py
+
+Bash
 
 
-python DarkTool.py
 The tool will handle the installation of specific security tools as you select them within the menu. Ensure Termux has storage permissions enabled if you encounter issues.
 
 Usage
@@ -103,4 +163,4 @@ Press Ctrl+C at any time to exit the script.
 Contributing
 Contributions are welcome! If you have suggestions for new tools, improvements, or bug fixes, please open an issue or submit a pull request on the GitHub repository.
 
-License# DarkTOOL
+License
