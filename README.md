@@ -66,7 +66,7 @@ Dark Tool is an all-in-one command-line utility designed to streamline your cybe
     ```
 3.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/mohamedmosamir/DarkTOOL](https://github.com/mohamedmosamir/DarkTOOL)
+    git clone https://github.com/mohamedmosamir/DarkTOOL
     ```
 4.  **Navigate into the directory:**
     ```bash
@@ -90,7 +90,7 @@ Dark Tool is an all-in-one command-line utility designed to streamline your cybe
     ```
 3.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/mohamedmosamir/DarkTOOL](https://github.com/mohamedmosamir/DarkTOOL)
+    git clone https://github.com/mohamedmosamir/DarkTOOL
     ```
 4.  **Navigate into the directory:**
     ```bash
